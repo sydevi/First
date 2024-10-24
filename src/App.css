@@ -1,0 +1,98 @@
+
+.car {
+ border:1px  hsla(0, 7%, 86%, 0.808) ;
+border-radius: 10px;
+box-shadow: 5px 5px 5px hsla(0, 1%, 15%, 0.1);
+padding:10px;
+margin-right:100px;
+text-align: center;
+width:350px;
+
+display: inline-block; 
+transition-duration:1s ;
+
+} 
+
+.card-1 {
+
+border:1px  hsla(0, 7%, 86%, 0.808) ;
+border-radius: 10px;
+box-shadow: 5px 5px 5px hsla(0, 1%, 19%, 0.1);
+padding:10px;
+margin-right:100px;
+text-align: center;
+width:350px;
+
+display: inline-block; 
+transition-duration:1s ;
+
+}
+.card-2 {
+
+border:1px  hsla(0, 7%, 86%, 0.808) ;
+border-radius: 10px;
+box-shadow: 5px 5px 5px hsla(0, 1%, 15%, 0.1);
+padding:10px;
+margin-right:100px;
+text-align: center;
+width:350px;
+display: inline-block;
+transition-duration:1s ;
+
+} 
+ .img1 {
+   border-radius:10px ;
+   width: 300px; ;
+ }
+ .img2{
+  border-radius:10px ;
+  width: 300px; ;
+
+}
+.img3 {
+  border-radius:10px ;
+  width: 300px; ;
+
+}
+
+ .car:hover{
+
+  transform: scale(1.1);
+
+
+}
+
+.card-1:hover{
+
+  transform: scale(1.1);
+ 
+}
+.card-2:hover{
+
+  transform: scale(1.1);
+
+}
+
+p{
+  color:rgb(74, 74, 230) ;
+ font-weight:600;
+ }
+
+
+h2{
+ text-align: center;
+
+}
+
+
+div{
+display:flex;
+flex-direction: row;
+flex-wrap: wrap;
+justify-content: center;
+}
+
+
+
+
+
